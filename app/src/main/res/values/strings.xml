@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chess Clock</string>
+    <string name="chess_clock">Chess Clock</string>
+    <string name="chooseGameType">Choose time control.</string>
+    <string name="blitz_5min">Blitz (5min)</string>
+    <string name="rapid_10min">Rapid (10min)</string>
+    <string name="classical_30">Classical (30min)</string>
+</resources>
